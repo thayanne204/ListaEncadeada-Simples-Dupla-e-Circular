@@ -1,7 +1,3 @@
-import ListaSimples.ListaSimples;
-import ListaDupla.ListaDupla;
-import ListaCircular.ListaCircular;
-
 public class Main {
     public static void main(String[] args) {
         System.out.println("=== TRABALHO DE ESTRUTURAS DE DADOS - LISTAS ENCADEADAS ===\n");
