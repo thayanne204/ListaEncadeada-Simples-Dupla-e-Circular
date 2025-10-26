@@ -2,7 +2,7 @@ public class ListaSimples {
     private NodeSimples inicio;
     private int tamanho;
     
-    public ListaEncadeadaSimples() {
+    public ListaSimples() {
         this.inicio = null;
         this.tamanho = 0;
     }
